@@ -1,0 +1,7 @@
+D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\bin\Debug\20181218_KeyInfoApp.exe.config
+D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\bin\Debug\20181218_KeyInfoApp.exe
+D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\bin\Debug\20181218_KeyInfoApp.pdb
+D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.csprojAssemblyReference.cache
+D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.csproj.CoreCompileInputs.cache
+D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.exe
+D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.pdb
