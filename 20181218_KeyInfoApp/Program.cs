@@ -12,6 +12,7 @@ namespace _20181218_KeyInfoApp
         {
             top:
             // Konsolda tuşlanacak veriyi saklayabilmek için ConsoleKeyInfo tipinde bir değişken tanımlanır.
+            Console.WriteLine("Çıkış yapmak için ESC tekrar işlem yapmak için F2 tuşuna basınız.");
             ConsoleKeyInfo cki = Console.ReadKey();
             // Basılan tuşun esc olup olmadığı kontrolü yapılır.
             if (cki.Key == ConsoleKey.Escape)

@@ -5,3 +5,10 @@ D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp
 D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.csproj.CoreCompileInputs.cache
 D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.exe
 D:\Project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.pdb
+D:\github-project\20181218_KeyInfoApp\20181218_KeyInfoApp\bin\Debug\20181218_KeyInfoApp.exe.config
+D:\github-project\20181218_KeyInfoApp\20181218_KeyInfoApp\bin\Debug\20181218_KeyInfoApp.exe
+D:\github-project\20181218_KeyInfoApp\20181218_KeyInfoApp\bin\Debug\20181218_KeyInfoApp.pdb
+D:\github-project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.csprojAssemblyReference.cache
+D:\github-project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.csproj.CoreCompileInputs.cache
+D:\github-project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.exe
+D:\github-project\20181218_KeyInfoApp\20181218_KeyInfoApp\obj\Debug\20181218_KeyInfoApp.pdb
